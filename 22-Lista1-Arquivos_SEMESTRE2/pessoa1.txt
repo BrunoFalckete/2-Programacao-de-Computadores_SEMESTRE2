@@ -1,0 +1,15 @@
+1 F Giovanna Lima 23
+2 F Laura Dias 31
+3 M Paulo Silva 57
+4 M Matheus Barros 18
+5 F Thaís Ferreira 42
+6 F Fernanda Almeida 61
+7 F Beatrice Silva 53
+8 F Gabrielly Azevedo 58
+9 F Matilde Fernandes 56
+10 F Matilde Alves 67
+11 F Lavinia Silva 49
+12 F Lavinia Rodrigues 64
+13 F Carolina Rodrigues 68
+14 F Luiza Carvalho 62
+15 F Laura Costa 68

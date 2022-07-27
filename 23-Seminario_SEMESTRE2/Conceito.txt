@@ -1,0 +1,42 @@
+Sistema de registro:
+
+-Professor
+	-cadastro
+		-professor
+			-email
+			-senha
+			-nome
+			-sobrenome
+			-cpf
+
+	-login:
+		-professor
+
+entradas:
+	-professor
+		-base de dados
+			-Unida Curricular
+				-id
+				-nome
+				-semestre
+				-periodo
+				-carga horaria
+				-quantidade alunos
+
+				-cpf professor
+			
+			-aluno
+				-cpf
+				-nome
+				-sobrenome
+				-ra
+
+			-turma_aluno
+				-cpf aluno
+				-id Unidade Curricular
+
+			-relatorio
+				-id turma
+				-nome turma
+				-ra aluno
+				-nome e sobrenome
